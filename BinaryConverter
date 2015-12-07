@@ -1,0 +1,5 @@
+function BinaryConverter(str) {
+ use the function parseInt(number, 2)
+  // code goes here
+  return str;
+         
